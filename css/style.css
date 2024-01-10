@@ -1,0 +1,306 @@
+/* =====================================Common Css start====================================== */
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+ a{
+    text-decoration: none;
+    display: inline-block;
+ }
+ul{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+img{
+    display: inline-block;
+}
+h1,h2,h3,h4,h5,h6,p{
+    margin: 0;
+}
+
+/* =====================================Common Css end====================================== */
+/* =====================================Navbar_part start=================================== */
+.navbar{
+    background: rgb(162, 233, 255);
+    position: absolute;
+    width: 100%;
+
+}
+.navbar .navbar-nav{
+    column-gap: 62px;
+    align-items: center;
+}
+.navbar .navbar-nav .nav-item .nav-link{
+     padding: 0;
+     color: var(--font-high-emphasis, #25282B);
+     font-family: Raleway;
+     font-size: 18px;
+     font-style: normal;
+     font-weight: 700;
+     line-height: 28px; 
+}
+.navbar .navbar-nav .nav-item .nav-link:hover{
+      color: blueviolet;
+}
+.navbar .Search_btn{
+      color: rgb(23, 18, 18);
+}
+
+/* =====================================Navbar_part end====================================== */
+/* =====================================Banner_part  start=================================== */
+#Banner_part .container .row .left {
+   padding-top: 154px;
+}
+#Banner_part .container .row .left p {
+    color: var(--brand-yellow, #FDC435);
+    font-family: Raleway;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+}
+#Banner_part .container .row .left h1 {
+    margin-top: 32px;
+    width: 486px;
+    color: var(--font-high-emphasis, #25282B);
+    font-family: Raleway;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 120%; 
+}
+#Banner_part .container .row .left h3 {
+    margin-top: 32px;
+    width: 486px;
+    color: var(--font-medium-emphasis, #828282);
+    font-family: Raleway;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%; 
+}
+
+#Banner_part .container .row .left .button {
+    margin-top: 32px;
+}
+#Banner_part .container .row .left .button button:hover {
+    background: rgb(65, 237, 151);
+}
+#Banner_part .container .row .left .button .one {
+     margin-right: 16px;
+}
+#Banner_part .container .row .right img{
+    margin-left: 24px;
+}
+/* =====================================Banner_part end====================================== */
+/* ========================================ABOUT_part start=================================== */
+#About_part{
+    padding-top: 200px;
+}
+#About_part .right h2{
+    margin-top: 100px;
+    color: var(--font-high-emphasis, #25282B);
+    font-family: Raleway;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 72px; 
+}
+
+#About_part .right p{
+    margin-top: 32px;
+    color: var(--font-medium-emphasis, #828282);
+    font-family: Nunito;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%;
+}
+#About_part .right button{
+    margin-top: 32px;
+}
+#About_part .right button:hover{
+    background-color: yellow;
+    color: rgb(35, 35, 35);
+}
+/* ========================================ABOUT_part END=================================== */
+
+
+/* =====================================Project_part start==================================== */
+#Project_part {
+    padding-top: 144px;
+}
+#Project_part .container{ 
+    max-width: 992px;  
+}
+
+#Project_part .container h2{
+    width: 181px;
+    border-bottom:3px solid red;
+    color: var(--font-high-emphasis, #25282B);
+    text-align: center;
+    font-family: Raleway;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 72px; 
+    margin: 0 auto;
+}
+#Project_part .container .row{
+    margin-top: 24px;
+   
+}
+#Project_part .container .middle{
+    display: flex;
+    flex-direction: row-reverse;
+}
+#Project_part .container .row .left{
+     background: #cddcff;
+     padding: 133px 26px 132px 38px;
+}
+#Project_part .container .row .left h3{
+    color: var(--font-high-emphasis, #25282B);
+    font-family: Playfair Display;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 150%; 
+}
+#Project_part .container .row .left p{
+    margin-top: 24px;
+    width: 370px;
+    color: var(--font-medium-emphasis, #828282);
+    font-family: Nunito;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%; 
+}
+#Project_part .container .row .left button{
+    margin-top: 24px;
+    color: var(--font-high-emphasis, #25282B);
+    font-family: Roboto;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 150%;
+    background: yellow;
+    padding: 8px 24px;
+    border-radius: 24px;
+    border: 0;
+}
+#Project_part .container .row .left button:hover{
+     background: rgb(14, 207, 59);
+}
+#Project_part .container .row .right img{
+    width: 100%;
+    border-radius: 20px;
+   
+}
+
+
+
+/* =====================================Project_part end====================================== */
+
+/* ========================================CONTACT START=================================== */
+
+#contact_part{
+    padding-top: 165px;
+   
+}
+#contact_part h2{
+    color: var(--font-high-emphasis, #25282B);
+    text-align: center;
+    font-family: Playfair Display;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 72px; 
+    margin-bottom: 88px;
+}
+#contact_part .form_part{
+    width: 400px;
+    margin: 0 auto;
+    background: var(--Dark-07, #F3F3F3);
+    padding: 50px;
+    border-radius: 20px;
+}
+#contact_part .form_part form {
+   display: flex;
+   flex-direction: column;
+   
+}
+#contact_part .form_part form input{
+    height: 40px;
+    border-radius: 10px;
+    border: #E8ECF4;
+    outline: 0;
+   
+}
+#contact_part .form_part form .message{
+    height: 160px;
+    border-radius: 10px;
+    border: #E8ECF4;
+   
+}
+
+#contact_part .form_part label{
+    margin-top: 24px;
+    color: var(--font-high, #25282B);
+    font-family: Nunito;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+   
+}
+
+#contact_part .form_part  button{
+    padding: 8px 24px;
+    background: #FDC435 ;
+    color: var(--font-high-emphasis, #25282B);
+    font-family: Roboto;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 150%; 
+    border-radius: 10px;
+    border: 0;
+    margin-left: 210px;
+    margin-top: 32px;
+}
+
+#contact_part .form_part .icon{
+    display: flex;
+    column-gap: 30px;
+    margin-top: 60px;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+#contact_part h5{
+    text-align: center;
+    margin-top: 32px;
+    
+   
+}
+
+footer img{
+    width:100%;
+    height: 250px;
+}
+
+
+/* ========================================CONTACT END===================================== */
+/* ========================================footer start===================================== */
+footer img{
+    width:100%;
+    height: 250px;
+}
+/* ========================================footer END===================================== */
+

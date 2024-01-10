@@ -1,0 +1,554 @@
+@media (min-width: 320px) and (max-width: 575.98px){
+    /* =====================================Navbar_part start=================================== */
+    .fa-solid.fa-bars {
+        color: orange;
+    }  
+
+    
+    .navbar-toggler:focus {
+        box-shadow: none;
+
+    }  
+
+    .navbar .navbar-nav {
+        row-gap: 10px;
+    }
+    
+    .navbar .navbar-nav {
+        background: rgb(60, 123, 218);
+        border-radius: 10px;
+        margin-top: 12px;
+        padding: 20px;
+    }
+
+    .navbar .Search_btn {
+        color: red;
+        background:yellow ;
+    }
+
+/* =====================================Navbar_part end====================================== */
+/* =====================================Banner_part  start=================================== */
+
+#Banner_part .container .row .left {
+	padding-top: 110px;
+	text-align: center;
+}
+#Banner_part .container .row .left h1 {
+	margin-top: 16px;
+	width: auto;	
+	font-size: 30px;
+}
+
+#Banner_part .container .row .left h3 {
+	margin-top: 16px;
+	width: auto;
+	font-size: 14px;
+}
+
+#Banner_part .container .row .left .button {
+	margin-top: 18px;
+}
+
+#Banner_part .container .row .left .button .one {
+	margin-right: 6px;
+}
+
+
+#Banner_part .container .row .right img {
+	margin-left: 0;
+	margin-top: 40px;
+	width: auto;
+	width: 300px;
+}   
+
+#Banner_part .banner_img {
+    display: none;
+}   
+
+/* =====================================Banner_part end====================================== */
+/* =====================================About_part Start====================================== */
+#About_part {
+	padding-top: 50px;
+}
+#About_part .left{
+    text-align: center;
+}
+#About_part .left img{
+    width: 270px;
+}
+
+#About_part .right h2 {
+	margin-top: 20px;	
+	font-size: 36px;	
+	text-align: center;
+}
+
+#About_part .right p {
+	margin-top: 6px;
+	font-size: 20px;
+	text-align: center;
+}
+#About_part .right .button {
+	margin-top: 4px;
+	text-align: center;
+}
+
+
+/* =====================================About_part end====================================== */
+/* =====================================Project_part start================================== */
+#Project_part {
+	padding-top: 60px;
+}
+
+#Project_part .container .row .left {
+	background: #cddcff;
+	padding: 50px 26px 50px 30px;
+}
+
+#Project_part .container h2 {
+	font-size: 34px;
+	
+}
+
+#Project_part .container .row .left h3 {
+	font-size: 28px;	
+}
+#Project_part .container .row .left p {
+	margin-top: 16px;
+	width: auto;
+	font-size: 15px;
+
+}
+#Project_part .container .row .left button {
+	margin-top: 16px;
+	font-size: 14px;
+	padding: 6px 20px;
+}
+#Project_part .container .row .left .button {
+	text-align: center;
+}
+#Project_part .container .row .right {
+	margin-top: 20px;
+}
+
+/* =====================================Project_part end====================================== */
+/* =====================================Contacts_part start==================================== */
+#contact_part {
+	padding-top: 60px;
+}
+#contact_part h2 {	
+	font-size: 30px;
+	margin-bottom: 24px;
+}
+
+#contact_part .form_part {
+	width: auto;
+	margin: 0 auto;
+	padding: 20px;	
+}
+
+#contact_part .form_part form input {
+	height: 26px;
+	margin-top: 12px;
+}
+
+#contact_part .form_part form .message {
+	height: 70px;
+}
+#contact_part .form_part .button {
+    text-align: center;	
+}
+#contact_part .form_part button {
+	margin-left: 0; 	
+}
+
+#contact_part .form_part button {
+	padding: 6px 20px;
+	font-size: 16px;
+	margin-top: 20px;
+}
+#contact_part .form_part .icon {
+	column-gap: 24px;
+	margin-top: 24px;
+}
+
+
+
+/* =====================================Contacts_part end====================================== */
+
+/* ========================================footer start===================================== */
+footer img{
+    height: 50px;
+}
+/* ========================================footer END===================================== */
+
+
+}
+/* --------------------------------------------------------------------------------------------- */
+/* --------------------------------------------------------------------------------------------- */
+/* --------------------------------------------------------------------------------------------- */
+/* --------------------------------------------------------------------------------------------- */
+/* --------------------------------------------------------------------------------------------- */
+@media (min-width: 576px) and (max-width: 767.98px){
+    /* =====================================Navbar_part start=================================== */
+    .fa-solid.fa-bars {
+        color: orange;
+    }  
+
+    
+    .navbar-toggler:focus {
+        box-shadow: none;
+
+    }  
+
+    .navbar .navbar-nav {
+        row-gap: 10px;
+    }
+    
+    .navbar .navbar-nav {
+        background: rgb(60, 123, 218);
+        border-radius: 10px;
+        margin-top: 12px;
+        padding: 20px;
+    }
+
+    .navbar .Search_btn {
+        color: red;
+        background:yellow ;
+    }
+
+/* =====================================Navbar_part end====================================== */
+/* =====================================Banner_part  start=================================== */
+
+#Banner_part .container .row .left {
+	padding-top: 110px;
+	text-align: center;
+}
+#Banner_part .container .row .left h1 {
+	margin-top: 16px;
+	width: auto;	
+	font-size: 30px;
+}
+
+#Banner_part .container .row .left h3 {
+	margin-top: 16px;
+	width: auto;
+	font-size: 14px;
+}
+
+#Banner_part .container .row .left .button {
+	margin-top: 18px;
+}
+
+#Banner_part .container .row .left .button .one {
+	margin-right: 6px;
+}
+
+
+#Banner_part .container .row .right img {
+	margin-left: 0;
+	margin-top: 40px;
+	width: auto;
+	width: 300px;
+}   
+
+#Banner_part .banner_img {
+    display: none;
+}   
+
+/* =====================================Banner_part end====================================== */
+/* =====================================About_part Start====================================== */
+#About_part {
+	padding-top: 50px;
+}
+#About_part .left{
+    text-align: center;
+}
+#About_part .left img{
+    width: 270px;
+}
+
+#About_part .right h2 {
+	margin-top: 20px;	
+	font-size: 36px;	
+	text-align: center;
+}
+
+#About_part .right p {
+	margin-top: 6px;
+	font-size: 20px;
+	text-align: center;
+}
+#About_part .right .button {
+	margin-top: 4px;
+	text-align: center;
+}
+
+
+/* =====================================About_part end====================================== */
+/* =====================================Project_part start================================== */
+#Project_part {
+	padding-top: 60px;
+}
+
+#Project_part .container .row .left {
+	background: #cddcff;
+	text-align: center;
+}
+
+#Project_part .container h2 {
+	font-size: 38px;
+	
+}
+#Project_part .container .row .left h3 {
+	font-size: 30px;
+
+}
+
+#Project_part .container .row .left p {
+	width: auto;
+	font-size: 20px;
+}
+#Project_part .container .row .left button {
+	font-size: 14px;
+	padding: 6px 20px;
+}
+
+#Project_part .container .row .right {
+	margin-top: 20px;
+}
+
+/* =====================================Project_part end====================================== */
+/* =====================================Contacts_part start==================================== */
+#contact_part {
+	padding-top: 60px;
+}
+#contact_part h2 {	
+	font-size: 40px;
+	margin-bottom: 24px;
+}
+
+#contact_part .form_part {
+	width: auto;
+	margin: 0 auto;
+	padding: 60px;	
+}
+
+#contact_part .form_part form input {
+	height: 26px;
+	margin-top: 12px;
+}
+
+#contact_part .form_part form .message {
+	height: 70px;
+}
+#contact_part .form_part .button {
+    text-align: center;	
+}
+#contact_part .form_part button {
+	margin-left: 0; 	
+}
+
+#contact_part .form_part button {
+	padding: 6px 20px;
+	font-size: 16px;
+	margin-top: 20px;
+}
+#contact_part .form_part .icon {
+	column-gap: 24px;
+	margin-top: 24px;
+}
+
+
+
+/* =====================================Contacts_part end====================================== */
+
+/* ========================================footer start===================================== */
+footer img{
+    height: 50px;
+}
+/* ========================================footer END===================================== */
+
+
+}
+@media (min-width: 768px) and (max-width: 991.98px){
+    /* =====================================Navbar_part start=================================== */
+    .fa-solid.fa-bars {
+        color: orange;
+    }  
+
+    
+    .navbar-toggler:focus {
+        box-shadow: none;
+
+    }  
+
+    .navbar .navbar-nav {
+        row-gap: 10px;
+    }
+    
+    .navbar .navbar-nav {
+        background: rgb(60, 123, 218);
+        border-radius: 10px;
+        margin-top: 12px;
+        padding: 20px;
+    }
+
+    .navbar .Search_btn {
+        color: red;
+        background:yellow ;
+    }
+
+/* =====================================Navbar_part end====================================== */
+/* =====================================Banner_part  start=================================== */
+
+#Banner_part .container .row .left {
+	padding-top: 130px;
+	
+}
+#Banner_part .container .row .left h1 {
+	margin-top: 16px;
+	width: auto;	
+	font-size: 40px;
+}
+
+#Banner_part .container .row .left h3 {
+	margin-top: 16px;
+	font-size: 18px;
+}
+
+#Banner_part .container .row .left .button {
+	margin-top: 18px;
+}
+
+#Banner_part .container .row .left .button .one {
+	margin-right: 6px;
+}
+
+
+#Banner_part .container .row .right img {
+	margin-left: 0;
+	margin-top: 40px;
+	width: auto;
+	width: 300px;
+}   
+
+#Banner_part .banner_img {
+    display: none;
+}   
+
+/* =====================================Banner_part end====================================== */
+/* =====================================About_part Start====================================== */
+#About_part {
+	padding-top: 50px;
+}
+#About_part .left{
+    text-align: center;
+}
+#About_part .left img{
+    width: 270px;
+}
+
+#About_part .right h2 {
+	margin-top: 20px;	
+	font-size: 36px;	
+	text-align: center;
+}
+
+#About_part .right p {
+	margin-top: 6px;
+	font-size: 20px;
+	text-align: center;
+}
+#About_part .right .button {
+	margin-top: 4px;
+	text-align: center;
+}
+
+
+/* =====================================About_part end====================================== */
+/* =====================================Project_part start================================== */
+#Project_part {
+	padding-top: 60px;
+}
+
+#Project_part .container .row .left {
+	background: #cddcff;
+	text-align: center;
+}
+
+#Project_part .container h2 {
+	font-size: 38px;
+	
+}
+#Project_part .container .row .left h3 {
+	font-size: 30px;
+
+}
+
+#Project_part .container .row .left p {
+	width: auto;
+	font-size: 20px;
+}
+#Project_part .container .row .left button {
+	font-size: 14px;
+	padding: 6px 20px;
+}
+
+#Project_part .container .row .right {
+	margin-top: 20px;
+}
+
+/* =====================================Project_part end====================================== */
+/* =====================================Contacts_part start==================================== */
+#contact_part {
+	padding-top: 60px;
+}
+#contact_part h2 {	
+	font-size: 40px;
+	margin-bottom: 24px;
+}
+
+#contact_part .form_part {
+	width: auto;
+	margin: 0 auto;
+	padding: 60px;	
+}
+
+#contact_part .form_part form input {
+	height: 26px;
+	margin-top: 12px;
+}
+
+#contact_part .form_part form .message {
+	height: 70px;
+}
+#contact_part .form_part .button {
+    text-align: center;	
+}
+#contact_part .form_part button {
+	margin-left: 0; 	
+}
+
+#contact_part .form_part button {
+	padding: 6px 20px;
+	font-size: 16px;
+	margin-top: 20px;
+}
+#contact_part .form_part .icon {
+	column-gap: 24px;
+	margin-top: 24px;
+}
+
+
+
+/* =====================================Contacts_part end====================================== */
+
+/* ========================================footer start===================================== */
+footer img{
+    height: 50px;
+}
+/* ========================================footer END===================================== */
+
+
+}
