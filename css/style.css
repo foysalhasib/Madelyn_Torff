@@ -286,8 +286,12 @@ h1,h2,h3,h4,h5,h6,p{
 #contact_part h5{
     text-align: center;
     margin-top: 32px;
+    color: blue;  
+}
+#contact_part span{
+    color: rgb(17, 245, 120);  
+    font-weight: 700;
     
-   
 }
 
 footer img{
